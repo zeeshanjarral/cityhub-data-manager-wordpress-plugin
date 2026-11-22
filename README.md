@@ -102,3 +102,5 @@ theme header and footer.
 * Preserves CityHub post type and API identifiers.
 * Adds public frontend-friendly JSON collection and detail endpoints.
 
+Developed by: Zeeshan Ahmed Jarral
+License: GPLv2 or later
