@@ -14,21 +14,35 @@ Manage CityHub content in WordPress and expose public read-only JSON for custom 
 
 == Description ==
 
-CityHub Data Manager stores content using standard WordPress posts, post metadata,
-taxonomies, and Media Library attachments. It intentionally does not control your
-frontend design.
+CityHub Data Manager is a powerful, lightweight WordPress plugin designed to simplify the management of city-based content, community listings, events, local services, real estate, marketplaces, promotions, and sponsors—all from one centralized dashboard.
 
-Supported content:
+Built for modern city portals and custom frontend websites, CityHub Data Manager uses native WordPress functionality to provide a familiar, reliable content management experience without restricting your website's design.
 
-* Events
-* Community
-* Services
-* Real Estate
-* Market
-* City Hall
-* Marketplace
-* Promotions / Deals
-* Sponsors
+Key Features:
+
+🏙️ 9 Content Modules: Manage Events, Community, Services, Real Estate, Market, City Hall, Marketplace, Promotions, and Sponsors.
+
+📅 Event Management: Add event dates, start and end times, locations, descriptions, and images.
+
+🖼️ Media Management: Upload featured images and multiple gallery photos using the WordPress Media Library.
+
+🔗 Custom CTA Buttons: Add personalized call-to-action labels and links to listings.
+
+⚙️ Easy Content Management: Create, edit, publish, trash, and bulk-delete listings through the WordPress admin dashboard.
+
+🌐 REST API Integration: Access published content through public, read-only JSON endpoints for custom websites and applications.
+
+🔍 Advanced Filtering: Retrieve listings using search, categories, pagination, and sorting.
+
+📱 Responsive Listing Pages: Display complete listing information while preserving your active WordPress theme's header and footer.
+
+🔄 Backward Compatibility: Reuses existing CityHub post types and API paths to preserve previously stored content.
+
+🔒 Secure Content Access: Public APIs expose only published listings, while content management remains restricted to authenticated WordPress users.
+
+Perfect For: Smart city portals, community directories, local business platforms, municipal websites, event directories, and multi-city content management systems.
+
+CityHub Data Manager — One Dashboard. Nine Content Modules. Unlimited Possibilities.
 
 Each listing has standard WordPress add, edit, trash/delete, bulk select, and bulk
 delete actions. Forms include title, description, thumbnail, gallery, and a custom
